@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4B0EF1351EB61C0600BC4189 /* TaskListTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B0EF1341EB61C0600BC4189 /* TaskListTableViewCell.swift */; };
 		4BEA15CB1E79D2CD00DA5EB9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BEA15CA1E79D2CD00DA5EB9 /* AppDelegate.swift */; };
 		4BEA15CD1E79D2CD00DA5EB9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BEA15CC1E79D2CD00DA5EB9 /* ViewController.swift */; };
 		4BEA15D01E79D2CD00DA5EB9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4BEA15CE1E79D2CD00DA5EB9 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4B0EF1341EB61C0600BC4189 /* TaskListTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaskListTableViewCell.swift; sourceTree = "<group>"; };
 		4BEA15C71E79D2CD00DA5EB9 /* Core-Data-Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Core-Data-Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4BEA15CA1E79D2CD00DA5EB9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4BEA15CC1E79D2CD00DA5EB9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				4BEA15CA1E79D2CD00DA5EB9 /* AppDelegate.swift */,
 				4BEA15CC1E79D2CD00DA5EB9 /* ViewController.swift */,
+				4B0EF1341EB61C0600BC4189 /* TaskListTableViewCell.swift */,
 				4BEA15CE1E79D2CD00DA5EB9 /* Main.storyboard */,
 				4BEA15D11E79D2CD00DA5EB9 /* Assets.xcassets */,
 				4BEA15D31E79D2CD00DA5EB9 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4B0EF1351EB61C0600BC4189 /* TaskListTableViewCell.swift in Sources */,
 				4BEA15CD1E79D2CD00DA5EB9 /* ViewController.swift in Sources */,
 				4BEA15CB1E79D2CD00DA5EB9 /* AppDelegate.swift in Sources */,
 			);
@@ -300,6 +304,7 @@
 				4BEA15DB1E79D2CD00DA5EB9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
